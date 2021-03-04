@@ -27,11 +27,22 @@ I can never remember where a given ML algorithm actually came from, and I'm tire
 * PC: [An Algorithm for Fast Recovery of Sparse Causal Graphs ](https://journals.sagepub.com/doi/10.1177/089443939100900106)
     * [Semantic Scholar](https://www.semanticscholar.org/paper/An-Algorithm-for-Fast-Recovery-of-Sparse-Causal-Spirtes-Glymour/ade157c4ddb211819914c17e4efde6d33489e3b5)
     * *Causation, Prediction, Search* often gets cited as well, even by the authors. Talk to your doctor about which reference is right for you.
+* IC: [Equivalence and synthesis of causal models](https://dl.acm.org/doi/10.5555/647233.719736)
+    * [Semantic Scholar](https://www.semanticscholar.org/paper/Equivalence-and-synthesis-of-causal-models-Verma-Pearl/17d451204a460a4739c7b1627a128a125f4af120)
+* SGS: *Causation, Prediction, Search* usually gets cited (it's section 5.4.1).
+    * The book itself cites SGS 1990c, which is not actually an entry in their bibliography. It *might* mean [Causality from Probability](https://www.semanticscholar.org/paper/Causality-From-Probability-Spirtes-Glymour/c85e4607650d78eabbd0715a443b2cd37a1f35fb), but honestly I would just cite the textbook.
 
 ## Deep Learning
 
+### Architectures
+* ResNets: [Deep Residual Learning for Image Recognition](https://ieeexplore.ieee.org/document/7780459)
+    * [Semantic Scholar](https://www.semanticscholar.org/paper/Deep-Residual-Learning-for-Image-Recognition-He-Zhang/2c03df8b48bf3fa39054345bafabfeff15bfd11d)
+
+### Training
 * Adam: [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980)
     * [Semantic Scholar](https://www.semanticscholar.org/paper/Adam%3A-A-Method-for-Stochastic-Optimization-Kingma-Ba/a6cb366736791bcccc5c8639de5a8f9636bf87e8)
+* Dropout: [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://jmlr.org/papers/v15/srivastava14a.html)
+    * [Semantic Scholar](https://www.semanticscholar.org/paper/Dropout%3A-a-simple-way-to-prevent-neural-networks-Srivastava-Hinton/34f25a8704614163c4095b3ee2fc969b60de4698)
 
 ## Image Recognition
 * AlexNet: [ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)
